@@ -24,6 +24,11 @@ input {
 
 a {
   font-size: 18px;
+  opacity: 0.70;
+}
+
+a:hover {
+  opacity: 1;
 }
 
 h1,
@@ -365,6 +370,4 @@ input::placeholder {
     margin: 0px 13%;
   }
 
-  .swiper-container {
-  }
 }
